@@ -1,0 +1,23 @@
+{
+  "name": "reflect-metadata-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reflect-metadata-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhil-001mehta/reflect-metadata-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhil-001mehta/reflect-metadata-example/issues"
+  },
+  "homepage": "https://github.com/nikhil-001mehta/reflect-metadata-example#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.9",
+    "typescript": "^2.1.4"
+  }
+}
